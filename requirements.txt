@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+anthropic
+python-multipart
+python-dotenv
